@@ -3,7 +3,7 @@ Flashcard App that scrapes investopedia.com for finance terms and definition;add
 Created at ByteAcademy.
 
 Contributors:
-Hyosun Taka Isaksen
-Chen Wang
-Kenso Trabing
+Hyosun Taka Isaksen,
+Chen Wang,
+Kenso Trabing,
 Jason Boykin
